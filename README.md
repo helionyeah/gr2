@@ -1,6 +1,7 @@
 # Node.js ENVIRONMENT
 aaa
 nah
+d
 yay
 A simple demo that prints the server's environment variables.
 
