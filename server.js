@@ -21,7 +21,7 @@ http.createServer(function(request, response) {
             response.end();
             return;
         }
-
+  // chicken
         if (uri == "/") {
             var t = path.join(filename, '/index.html');
             var v = {
